@@ -1,0 +1,34 @@
+,Class,nrow.sub1.
+1,classamenity - Others,21437
+2,classamenity - Transportation,8804
+3,classamenity - Sustenance,10849
+4,classamenity - Education,684
+5,classamenity - Financial,1931
+6,"classamenity - Entertainment, Arts & Culture",576
+7,classamenity - Healthcare,1400
+8,classshop - Health and beauty,2079
+9,"classshop - Clothing, shoes, accessories",1885
+10,classshop - Others,1444
+11,"classshop - Food, beverages",2777
+12,"classshop - Art, music, hobbies",322
+13,"classshop - Stationery, gifts, books, newspapers",797
+14,"classshop - Outdoors and sport, vehicles",676
+15,"classshop - General store, department store, mall",766
+16,classshop - Furniture and interior,473
+17,"classshop - Do-it-yourself, household, building materials, gardening",554
+18,classshop - Electronics,439
+19,"classshop - Discount store, charity",238
+20,highway - bus_stop,20190
+21,highway - crossing,10382
+22,highway - elevator,178
+23,highway - give_way,1566
+24,highway - mini_roundabout,1405
+25,highway - motorway_junction,128
+26,highway - speed_camera,142
+27,highway - stop,291
+28,highway - street_lamp,1948
+29,highway - traffic_signals,5314
+30,highway - turning_circle,1222
+31,classtransport - platform,3248
+32,classtransport - stop_position,4195
+33,classtourism - tourism,2188
